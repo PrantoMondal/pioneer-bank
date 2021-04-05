@@ -14,7 +14,7 @@ gibody{
 
 .status{
    margin: 0 20px;
-   color: rgb(143, 121, 121); 
+   color: rgb(255, 255, 255); 
    padding: 20px;
    border-radius: 10px;
 }
@@ -24,9 +24,9 @@ gibody{
 }
 
 .withdraw{
-    background-color: rgb(226, 121, 51);
+    background-color: rgb(255, 117, 24);
 }
 
 .balance{
-    background-color: rgb(156, 110, 23);
+    background-color: rgb(207, 150, 44);
 }
