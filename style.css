@@ -1,4 +1,4 @@
-body{
+gibody{
     padding: 100px;
 }
 .submit-area{
@@ -14,19 +14,19 @@ body{
 
 .status{
    margin: 0 20px;
-   color: white; 
+   color: rgb(143, 121, 121); 
    padding: 20px;
    border-radius: 10px;
 }
 
 .deposit{
-    background-color:slateblue ;
+    background-color:rgb(48, 216, 99) ;
 }
 
 .withdraw{
-    background-color: lightsalmon;
+    background-color: rgb(226, 121, 51);
 }
 
 .balance{
-    background-color: orange;
+    background-color: rgb(156, 110, 23);
 }
